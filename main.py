@@ -64,7 +64,7 @@ class main:
                     print('Not Delivered Yet')
                     print('ETA is', package_time)
                 else:
-                    print('Delivered on', package_time)
+                    print('Successfully delivered on time at', package_time)
                 
                 print('\n')
              
